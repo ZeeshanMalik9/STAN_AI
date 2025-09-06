@@ -4,6 +4,8 @@
 ![Platform](https://img.shields.io/badge/Platform-Node.js%2FExpress-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
+## Live Link: https://stan-ai.onrender.com/
+
 A human-like, empathetic, and context-aware conversational AI agent built for the **STAN Internship Challenge**.  
 This chatbot leverages **dual-memory architecture** (structured + semantic memory), emotional adaptability, and context retention to provide engaging and personalized interactions.
 
